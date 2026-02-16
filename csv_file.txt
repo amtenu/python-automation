@@ -1,0 +1,11 @@
+Name,Phone,Role
+Alice Thompson,555-0101,Project Manager
+Marcus Chen,555-0102,Lead Developer
+Sarah Jenkins,555-0103,UX Designer
+David Rodriguez,555-0104,QA Engineer
+Priya Kapoor,555-0105,Data Scientist
+Leo Maxwell,555-0106,Product Owner
+Elena Rossi,555-0107,DevOps Engineer
+Kevin Wright,555-0108,Backend Developer
+Maya Patel,555-0109,Frontend Developer
+Jordan Smith,555-0110,Security Analyst
